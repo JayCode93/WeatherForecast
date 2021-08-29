@@ -6,7 +6,7 @@ import WeatherInfo from "./components/weather-info/WeatherInfo.jsx";
 
 function App() {
 
-  const API_key = '3e6763d4f81a85062e87bb2aafc55fb5';
+  const API_key = '...';
   const [city, setCity] = useState();
   const [weather, setWeather] = useState();
 
